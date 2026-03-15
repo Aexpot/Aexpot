@@ -11,7 +11,7 @@ Building simple and scalable applications.
 ### ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,postgres,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,docker,vscode" />
 </p>
 
 ### 📊 GitHub Stats
